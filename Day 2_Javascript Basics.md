@@ -1,5 +1,7 @@
 
-Once we install the node.js and set the NODE_HOME path in environment variables we then installed the VSCode. And then installed OpencCode from VSCode marketplace
+- Once we install the node.js and set the NODE_HOME path in environment variables we then installed the VSCode.
+- Node.js is opensource & cross platform JS runtime environment that allows to run js code, created by Ryan Dahl in 2009. And then installed OpencCode from VSCode marketplace
+  
 This much we did in Day1 practise
 
 ----------------------------------
@@ -11,7 +13,8 @@ Now we will study today below topics :
   Javascript (interaction behavior, what should it do)
 - Brendan Eich built the Javascript programming language in year 1995. Javascript was easy to use and easy to modify and flexible.
 
-- 
+- Compile time means translating machine code before execution in oneGo and interpreted/runtime means executing line by line.
+- Javascript is interpreted language primarily  with JIT (Just in time) compilation at runtime, means its both runtime and compile time
 
 
 
