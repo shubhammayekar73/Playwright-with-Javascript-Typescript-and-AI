@@ -15,9 +15,12 @@ Now we will study today below topics :
 
 - Compile time means translating machine code before execution in oneGo and interpreted/runtime means executing line by line.
 - Javascript is interpreted language primarily  with JIT (Just in time) compilation at runtime, means its both runtime and compile time
+- JS used and supported at frontend and backend side. python also does same but mostly in backend
 
 
+In CMD for windows users, check versions :
 
+<img width="582" height="336" alt="image" src="https://github.com/user-attachments/assets/e48b48dc-ef02-44ab-8e4d-0947d859ac7d" />
 
 
 
