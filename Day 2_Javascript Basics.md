@@ -22,7 +22,9 @@ In CMD for windows users, check versions :
 
 <img width="582" height="336" alt="image" src="https://github.com/user-attachments/assets/e48b48dc-ef02-44ab-8e4d-0947d859ac7d" />
 
+Install the extensions in vs code
 
+<img width="375" height="446" alt="image" src="https://github.com/user-attachments/assets/2048d5ee-ecd7-4ecb-94f3-4a1ee9fb4134" />
 
 
 
